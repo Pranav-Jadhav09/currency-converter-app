@@ -3,16 +3,16 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/currency-converter-app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pranav_Jadhav09?style=social)](https://twitter.com/Pranav_Jadhav09)
 
-# Currency verter App
+# Currency Converter App
 
 This project is a simple currency converter app built using JavaScript. It allows users to convert currency from one type to another based on the latest exchange rates fetched from the ExchangeRate API.<br />
 <a href="https://currency-converter-app.onrender.com/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
-## Feaes
+## Features
 
-- Sect a **_FROM_** and **_TO_** currency from dropdown lists.
+- Select a **_FROM_** and **_TO_** currency from dropdown lists.
 - View **_exchange rates_** based on the **_selected currencies._**
 - **_Swap_** the positions of the FROM and TO currencies for quick conversion.
 - Fetches exchange rates from the [ExchangeRate API](https://v6.exchangerate-api.com/).
@@ -23,7 +23,7 @@ This project is a simple currency converter app built using JavaScript. It allow
 
 1. Clone the repsitory or download the ZIP file.
 2. Navigate to the project directory.
-3. Open `index.html` in your web rowser.
+3. Open `index.html` in your web browser.
 
 <br />
 
@@ -48,4 +48,4 @@ This project uses the following external dependencies:
 
 ## License
 
-This project is licensed under the [M License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
