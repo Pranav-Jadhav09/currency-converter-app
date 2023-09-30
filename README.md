@@ -6,7 +6,7 @@
 # Currency Converter App
 
 This project is a simple currency converter app built using JavaScript. It allows users to convert currency from one type to another based on the latest exchange rates fetched from the ExchangeRate API.<br />
-<a href="https://currency-converter-app.onrender.com/"><strong>➥ Live Demo</strong></a>
+<a href="https://currency-converter-app-vlm4.onrender.com/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
